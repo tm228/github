@@ -1,1 +1,1 @@
-plik1.txt
+plik 1 - zmiany
